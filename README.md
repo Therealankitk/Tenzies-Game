@@ -30,9 +30,10 @@ A dice-rolling game built with React. Test your luck as you try to get all 10 di
 4. Firebase for the database storage of the best score.
 
 ---
+In order to play the game just go to the url:
+[Tenzies Game](https://therealankitk.github.io/Tenzies-Game/)
+---
 
 ## Credits
 This project was made while learning React from [freeCodeCamp's React Tutorial](https://youtu.be/x4rFhThSX04?si=69QSkoVMvVgUEnx0). Apart from the original inspiration, more features were novelly added like the score tracking and display of the best global score.
 
-In order to play the game just go to the url:
-[Tenzies Game](https://therealankitk.github.io/Tenzies-Game/)
