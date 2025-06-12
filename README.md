@@ -32,4 +32,4 @@ A dice-rolling game built with React. Test your luck as you try to get all 10 di
 ---
 
 In order to play the game just go to the url:
-[Link Text]([https://Therealankitk.github.io/Tenzies-Game/](https://therealankitk.github.io/Tenzies-Game/))
+[Tenzies Game](https://therealankitk.github.io/Tenzies-Game/)
